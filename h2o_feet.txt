@@ -1,0 +1,6 @@
+h2o_feet,'level description'='between 6 and 9 feet',location='coyote_creek',water_level=8.12 2015-08-18T00:00:00Z 
+h2o_feet,'level description'='below 3 feet',location='santa_monica',water_level=2.064 2015-08-18T00:00:00Z 
+h2o_feet,'level description'='between 6 and 9 feet',location='coyote_creek',water_level=8.005 2015-08-18T00:06:00Z 
+h2o_feet,'level description'='below 3 feet',location='santa_monica',water_level=2.116 2015-08-18T00:06:00Z
+h2o_feet,'level description'='between 6 and 9 feet',location='coyote_creek',water_level=7.887 2015-08-18T00:12:00Z 
+h2o_feet,'level description'='below 3 feet',location='santa_monica',water_level=2.028 2015-08-18T00:12:00Z
